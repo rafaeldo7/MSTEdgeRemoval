@@ -169,21 +169,7 @@ Manages the graph structure and provides:
 ### MSTEdgeRemoval Class
 Main class that demonstrates the complete workflow with a sample graph.
 
-## Customization
 
-To test with your own graph, modify the `createSampleGraph()` method in `MSTEdgeRemoval.java`:
-
-```java
-Graph graph = new Graph(numberOfVertices);
-graph.addEdge(vertex1, vertex2, weight);
-// Add more edges...
-```
-
-You can also change which edge to remove by modifying:
-
-```java
-Edge removedEdge = mst.get(index); // Change index
-```
 
 ## Testing
 
@@ -192,15 +178,10 @@ The program includes a sample graph with 6 vertices and 9 edges. The graph is de
 - Clear component separation after edge removal
 - Multiple candidate replacement edges
 
-## License
 
-This project is created for educational purposes.
 
 ## Author
 
-Created as part of a graph algorithms demonstration project.
+Rafael Shayekhov
 
-## Contributing
-
-Feel free to fork this project and submit pull requests with improvements!
 

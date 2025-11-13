@@ -59,7 +59,7 @@ mst-edge-removal/
 
 ```bash
 git clone https://github.com/rafaeldo7/MSTEdgeRemoval
-cd mst-edge-removal
+cd MSTEdgeRemoval
 ```
 
 ## Running the Program

@@ -58,7 +58,7 @@ mst-edge-removal/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mst-edge-removal.git
+git clone https://github.com/rafaeldo7/MSTEdgeRemoval
 cd mst-edge-removal
 ```
 
